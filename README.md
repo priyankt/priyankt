@@ -40,8 +40,15 @@ priyank: typing.Dict[str : typing.Any] = {
 This list of blog posts is automatically generated using GitHub actions
 
 <!-- BLOG_START -->
-><samp>[Minor issue that haunted me for 3 days](https://priyankt.github.io/posts/fastapi-query-param-caching-issue/)</samp><br> ><samp>31 Jan, 2024</samp>
-><samp>[Building options expiry calendar](https://priyankt.github.io/posts/building-expiry-calendar/)</samp><br> ><samp>19 Jan, 2024</samp>
-><samp>[Real time currency formatting with Alpine.js](https://priyankt.github.io/posts/real-time-currency-formatting-alpine-js/)</samp><br> ><samp>19 Jan, 2024</samp>
-><samp>[Sending SMS in India via AWS SNS](https://priyankt.github.io/posts/sending-sms-aws-sns/)</samp><br> ><samp>10 Nov, 2023</samp>
+><samp>[Minor issue that haunted me for 3 days](https://priyankt.github.io/posts/fastapi-query-param-caching-issue/)</samp><br>
+><samp>31 Jan, 2024</samp>
+
+><samp>[Building options expiry calendar](https://priyankt.github.io/posts/building-expiry-calendar/)</samp><br>
+><samp>19 Jan, 2024</samp>
+
+><samp>[Real time currency formatting with Alpine.js](https://priyankt.github.io/posts/real-time-currency-formatting-alpine-js/)</samp><br>
+><samp>19 Jan, 2024</samp>
+
+><samp>[Sending SMS in India via AWS SNS](https://priyankt.github.io/posts/sending-sms-aws-sns/)</samp><br>
+><samp>10 Nov, 2023</samp>
 <!-- BLOG_END -->

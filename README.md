@@ -41,6 +41,7 @@ These blog posts are automatically generated using GitHub actions
 
 <!-- BLOG_START -->
 [Minor issue that haunted me for 3 days](https://priyankt.github.io/posts/fastapi-query-param-caching-issue/)
+
 31 Jan, 2024
 
 ---

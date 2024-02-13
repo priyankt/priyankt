@@ -3,7 +3,7 @@ name: Update README.md
 on:
   push:
     branches:
-      - main
+      - master
   schedule:
     - cron: '0 */6 * * *'
 
@@ -40,7 +40,7 @@ jobs:
           git commit -m "Automated update: ${timestamp} ${GITHUB_SHA}" || echo "No changes to commit"
 
       - name: Push README.md
-        uses: ad-m/github-push-action@main
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}

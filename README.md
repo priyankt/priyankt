@@ -40,6 +40,9 @@ priyank: typing.Dict[str : typing.Any] = {
 This list of blog posts is automatically generated using GitHub actions
 
 <!-- BLOG_START -->
+><samp>[Enhancing your GitHub public profile](https://priyankt.github.io/posts/enhancing-github-public-profile/)</samp><br>
+><samp>13 Feb, 2024</samp>
+
 ><samp>[Minor issue that haunted me for 3 days](https://priyankt.github.io/posts/fastapi-query-param-caching-issue/)</samp><br>
 ><samp>31 Jan, 2024</samp>
 

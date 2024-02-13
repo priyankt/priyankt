@@ -39,15 +39,17 @@ priyank: typing.Dict[str : typing.Any] = {
 ### Recent Blog Posts
 These blog posts are automatically generated using GitHub actions
 
-<!-- BLOG_START -->
-[Minor issue that haunted me for 3 days](https://priyankt.github.io/posts/fastapi-query-param-caching-issue/)
-
-31 Jan, 2024
-
 ---
 
-[Building options expiry calendar](https://priyankt.github.io/posts/building-expiry-calendar/)
-19 Jan, 2024
+<!-- BLOG_START -->
+>[Minor issue that haunted me for 3 days](https://priyankt.github.io/posts/fastapi-query-param-caching-issue/)
+>
+>31 Jan, 2024
+
+
+>[Building options expiry calendar](https://priyankt.github.io/posts/building-expiry-calendar/)
+>
+>19 Jan, 2024
 
 ---
 

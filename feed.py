@@ -30,8 +30,8 @@ def list_recent_posts(feed):
     for entry in feed.entries:
         title = entry['title']
         link = entry['link']
-        published = time.strftime('%Y-%m-%d', entry['published_parsed'])
-        posts.append(f"- [{title}]({link}) ({published})")
+        published = time.strftime('%d %b, %Y', entry['published_parsed'])
+        posts.append(f"><samp>[{title}]({link})</samp><br> ><samp>{published}</samp>")
     return '\n' + '\n'.join(posts) + '\n'
 
 

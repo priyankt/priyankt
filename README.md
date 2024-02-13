@@ -1,4 +1,5 @@
 <img src="https://github.com/priyankt/priyankt/blob/main/profile-header.jpg" alt="Priyank GitHub profile README header image">
+
 ```python
 import typing
 
@@ -34,5 +35,4 @@ priyank: typing.Dict[str : typing.Any] = {
         "cloud": ["AWS", "Digital Ocean"],
     },
 }
-
 ```

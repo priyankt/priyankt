@@ -40,8 +40,16 @@ priyank: typing.Dict[str : typing.Any] = {
 These blog posts are automatically generated using GitHub actions
 
 <!-- BLOG_START -->
-- [Minor issue that haunted me for 3 days](https://priyankt.github.io/posts/fastapi-query-param-caching-issue/) (31 Jan, 2024)
-- [Building options expiry calendar](https://priyankt.github.io/posts/building-expiry-calendar/) (19 Jan, 2024)
-- [Real time currency formatting with Alpine.js](https://priyankt.github.io/posts/real-time-currency-formatting-alpine-js/) (19 Jan, 2024)
-- [Sending SMS in India via AWS SNS](https://priyankt.github.io/posts/sending-sms-aws-sns/) (10 Nov, 2023)
+> [Minor issue that haunted me for 3 days](https://priyankt.github.io/posts/fastapi-query-param-caching-issue/)
+> 31 Jan, 2024
+
+> [Building options expiry calendar](https://priyankt.github.io/posts/building-expiry-calendar/)
+> 19 Jan, 2024
+
+> [Real time currency formatting with Alpine.js](https://priyankt.github.io/posts/real-time-currency-formatting-alpine-js/)
+> 19 Jan, 2024
+
+> [Sending SMS in India via AWS SNS](https://priyankt.github.io/posts/sending-sms-aws-sns/)
+> 10 Nov, 2023
+
 <!-- BLOG_END -->

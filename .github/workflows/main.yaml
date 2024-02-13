@@ -3,7 +3,7 @@ name: Update README.md
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     - cron: '0 */6 * * *'
 
@@ -12,7 +12,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-
+      - name: GitHub Push
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          # Token for the repo. Can be passed in using $\{{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # Destination branch to push changes
+          branch: main
+    
       - uses: actions/checkout@v2
         with:
           persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
@@ -40,7 +47,7 @@ jobs:
           git commit -m "Automated update: ${timestamp} ${GITHUB_SHA}" || echo "No changes to commit"
 
       - name: Push README.md
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}

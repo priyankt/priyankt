@@ -12,13 +12,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: GitHub Push
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          # Token for the repo. Can be passed in using $\{{ secrets.GITHUB_TOKEN }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          # Destination branch to push changes
-          branch: main
     
       - uses: actions/checkout@v2
         with:

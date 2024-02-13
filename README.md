@@ -41,7 +41,7 @@ These blog posts are automatically generated using GitHub actions
 
 <!-- BLOG_START -->
 ><samp>[Minor issue that haunted me for 3 days](https://priyankt.github.io/posts/fastapi-query-param-caching-issue/)</samp> <br>
->31 Jan, 2024
+><samp>31 Jan, 2024</samp>
 
 >[Building options expiry calendar](https://priyankt.github.io/posts/building-expiry-calendar/) <br>
 >19 Jan, 2024

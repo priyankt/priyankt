@@ -40,6 +40,9 @@ priyank: typing.Dict[str : typing.Any] = {
 This list of blog posts is automatically generated using GitHub actions
 
 <!-- BLOG_START -->
+><samp>[Investing for Child's Education and Marriage: A Systematic Approach](https://priyankt.github.io/posts/investing-for-child-education-marriage/)</samp><br>
+><samp>11 Apr, 2024</samp>
+
 ><samp>[Glimpses from the trek to the Everest Base Camp - Part 2](https://priyankt.github.io/posts/trek-to-the-everest-base-camp-part-2/)</samp><br>
 ><samp>15 Feb, 2024</samp>
 
@@ -51,7 +54,4 @@ This list of blog posts is automatically generated using GitHub actions
 
 ><samp>[Minor issue that haunted me for 3 days](https://priyankt.github.io/posts/fastapi-query-param-caching-issue/)</samp><br>
 ><samp>31 Jan, 2024</samp>
-
-><samp>[Building options expiry calendar](https://priyankt.github.io/posts/building-expiry-calendar/)</samp><br>
-><samp>19 Jan, 2024</samp>
 <!-- BLOG_END -->
